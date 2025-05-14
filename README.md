@@ -1,2 +1,3 @@
 # art
-The Art repo for Mod Garden.
+The art repo for Mod Garden events.
+
